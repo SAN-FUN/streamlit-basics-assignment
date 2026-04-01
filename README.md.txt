@@ -1,0 +1,1 @@
+This Streamlit app displays a simple sales dataset with category-based filtering and visualization.
